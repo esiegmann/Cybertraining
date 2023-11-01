@@ -1,3 +1,5 @@
-# Cybertraining
+# Cybertraining Pilot Project
 
-test
+Building a strong community of computational researchers empowered in the use of novel cutting-edge technologies
+
+The goals of this Cybertraining program are to improve researchers' ease and productivity when working with cutting-edge, specialized  computing technology, grow a well-informed community of computational researchers, familiar with the newest technologies, capable of handling them and porting applications, and ensure proper and efficient usage of the testbeds. The recent growth in data enabled science and engineering coupled have ushered in a new generation of cyberinfrastructure (CI) technologies. Federal agencies have invested in testbed architectures that allow researchers to explore new avenues of computing, and vastly improved performance holds promise. With a focus on fostering innovation in CI, these testbeds include complex features which make them harder to use by all but experienced users. Graduate students and postdocs, the largest users of CI, however, require a scaffolded approach to ensure that they are able to perform this migration while making meaningful progress toward addressing their research problems. Furthermore, there is an unmet need for a training platform for interested researchers to experience all the testbed technologies simultaneously. 
